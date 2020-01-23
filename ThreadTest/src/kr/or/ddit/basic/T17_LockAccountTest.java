@@ -12,9 +12,7 @@ public class T17_LockAccountTest {
 		
 		th1.start();
 		th2.start();
-3
-.,acS
-XCV}
+	}
 }
 
 // 입출금을 담당하는 클래스
